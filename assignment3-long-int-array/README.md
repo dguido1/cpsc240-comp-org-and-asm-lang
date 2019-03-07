@@ -30,7 +30,7 @@ Converts an integer to a numerically equal floating point number before passing 
 <br/>
 
 ## Program Structure
-![assn3_240_image](https://user-images.githubusercontent.com/47490318/53930932-0065b800-4048-11e9-9533-f4ec277d0c64.png)
+![240assn3img](https://user-images.githubusercontent.com/47490318/53944906-3705f780-4075-11e9-84e7-34c20bf93de7.png)
 <br/><br/><br/>
 ***
 <br/>
