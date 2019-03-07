@@ -1,5 +1,5 @@
 ## Assignment 1: IO Operations
-Use of C custom / library functions within assembly source for the purpose of **simplifying IO operations**.
+Use of C custom / library functions within assembly source for the purpose of **simplifying IO operations**
 
 **Author name:** &nbsp;&nbsp;&nbsp; *David Guido*  
 **Program title:** &nbsp;&nbsp;&nbsp; *IO Operations*<br/><br/>
