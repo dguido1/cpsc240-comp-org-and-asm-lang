@@ -1,5 +1,5 @@
 ## Assignment 3: Array of Long Integers
-Converts an integer to a numerically equal floating point number before passing it to another funtion for arithmetic manipulation
+Converts an integer to a numerically equal floating point number before passing it to another function for arithmetic manipulation
 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;California State University, Fullerton
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;CPSC 240: Computer Organization and Assembly Language
