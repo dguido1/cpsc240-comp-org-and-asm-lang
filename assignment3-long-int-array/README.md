@@ -191,10 +191,7 @@ The driver will now return 0 to the operating system.
 Made by:<br/>
 David Guido :rocket:<br/>
 
-[Lit Lab Productions](https://www.litlabproductions.com)  
-
-<br/>
-
+[Lit Lab Productions](https://www.litlabproductions.com)
 ***
 <br/>
 THIS DOCUMENT IS MEANT TO BE USED FOR EDUCATIONAL PURPOSES ONLY.
