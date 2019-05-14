@@ -17,7 +17,7 @@ Compute the average time required to compute the square root of a float number.
      * [First Sample Execution](#first-sample-execution)
      * [Second Sample Execution](#second-sample-execution)
      
-<br/><br/><br/>
+
 ***
 <br/>
 
