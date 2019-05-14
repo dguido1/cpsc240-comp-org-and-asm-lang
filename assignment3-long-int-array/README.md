@@ -212,9 +212,7 @@ The driver received this unknown number: 57.166666666666664298.
 The driver will now return 0 to the operating system.
 
 ```
-<br/><br/><br/>
-***
-<br/>
+
 
 <br/><br/><br/>
 ***
