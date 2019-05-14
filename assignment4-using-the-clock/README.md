@@ -8,38 +8,46 @@ Compute the average time required to compute the square root of a float number.
 <br/>
 
 
-Introduction
+### Introduction
 Every microprocessor contains a simple clock. This assignment provides practical hands-on
 experience in using that clock. The whole purpose of this assignment is for you to have real
 experience in the use of the clock.
 
-Program requirements
+### Program requirements
 Create a two module system. The driver module is either C or C++; you pick one. The driver
-module has nothing to do with the solution.
+module has nothing to do with the solution.<br/>
+
 The driver module calls the clock module written in X86 assembly. This module is going to
 compute the average time required to compute the square root of a float number. The module
 will measure the time required to do the one instruction “square root” many times. Then the
 average time needed to perform the square root operation is computed and outputted. Then the
-program ends.
+program ends.<br/>
+
 In the clock module the user inputs an integer, which we’ll call N. The number N is the number
 of square roots to be computed. In pseudo code this is the processing:
-for(int k = 1; k<N;k++)
-{register#1 = clocktime;
-register#2 = squareroot(k);
-register#3 = clocktime;
-totaltimeregister += (register#3 – register#1)
-//Discard data in register#2.
-}//End loop
+<br/>
+```
+for (int k = 1; k<N;k++)
+{
+    register1 = clocktime;
+    register2 = squareroot(k);
+    register3 = clocktime;
+    totaltimeregister += (register#3 – register#1)
+    // Discard data in register#2.
+}   // End loop
+```
+<br/>
 The amount of time need to compute the square root of k is added to the accumulator. After the
 loop finishes we want to use the value in the accumulator.
+
+<br/>
 You pick suitable registers for pseudo variables appearing in the pseudocode above.
 
 
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Split Output by Source
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Split Output by Source
 
-
-## First sample execution
+### First sample execution
 
 #### &nbsp;&nbsp;&nbsp; Driver module (C++)
 ```
@@ -76,7 +84,7 @@ Have a nice day. Bye
 
 
 
-## Second sample execution
+### Second sample execution
 
 #### &nbsp;&nbsp;&nbsp; Driver module (C++)
 ```
@@ -112,7 +120,7 @@ Have a nice day. Bye
 ```
 
 
-## Third sample execution
+### Third sample execution
 
 #### &nbsp;&nbsp;&nbsp; Driver module (C++)
 ```
