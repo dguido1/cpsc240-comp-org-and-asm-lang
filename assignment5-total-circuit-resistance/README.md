@@ -28,6 +28,8 @@ Input the resistance of each sub-circuit, and then compute and display the resis
 ## Application Background
 - This assignment uses direct current circuits with multiple devices wired in parallel.  An engineering schematic for four devices wired in parallel will be the following diagram.
  <br/>
+ 
+![image](https://user-images.githubusercontent.com/47490318/57693391-f048f680-75fd-11e9-9ae7-7569f0a65aa0.png)
 
 - (This is the electron flow diagram – not the conventional flow diagram.)
 <br/>
