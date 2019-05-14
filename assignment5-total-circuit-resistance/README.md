@@ -12,7 +12,7 @@ Input the resistance of each sub-circuit, and then compute and display the resis
 ## Table of contents
   * [Introduction](#introduction)
   * [Application Background](#application-background)
-  * [The application](#the-application)
+  * [The Application](#the-application)
   * [Suggested Approach](#suggested-approach)
   * [Typical Run](#a-typical-run)
   * [Actual Output](#actual-output)
@@ -51,7 +51,7 @@ Input the resistance of each sub-circuit, and then compute and display the resis
 <br/>
 <br/>
 
-## The application
+## The Application
 - Make a program that will input the resistance of each sub-circuit, and then compute and display the resistance of the whole circuit.
  <br/>
 
