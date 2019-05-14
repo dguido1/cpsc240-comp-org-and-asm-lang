@@ -25,7 +25,8 @@ Compute the average time required to compute the square root of a float number.
 - Every microprocessor contains a simple clock. This assignment provides practical hands-on
   experience in using that clock. The whole purpose of this assignment is for you to have real
   experience in the use of the clock.
-
+***
+<br/>
 
 ## Program requirements
 - Create a two module system. The driver module is either C or C++; you pick one. The driver
@@ -100,7 +101,8 @@ The clock function will now return the time to the caller.
 The clock main program received this number 0.0983876767
 Have a nice day. Bye
 ```
-
+***
+<br/>
 
 
 
@@ -138,7 +140,8 @@ The clock function will now return the time to the caller.
 The clock main program received this number 3.1961831090909
 Have a nice day. Bye
 ```
-
+***
+<br/>
 
 
 ### Third sample execution
