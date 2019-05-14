@@ -22,23 +22,25 @@ Compute the average time required to compute the square root of a float number.
 <br/>
 
 ## Introduction
-Every microprocessor contains a simple clock. This assignment provides practical hands-on
-experience in using that clock. The whole purpose of this assignment is for you to have real
-experience in the use of the clock.
+- Every microprocessor contains a simple clock. This assignment provides practical hands-on
+  experience in using that clock. The whole purpose of this assignment is for you to have real
+  experience in the use of the clock.
 
 
 ## Program requirements
-Create a two module system. The driver module is either C or C++; you pick one. The driver
-module has nothing to do with the solution.<br/>
+- Create a two module system. The driver module is either C or C++; you pick one. The driver
+  module has nothing to do with the solution.
+ <br/>
 
-The driver module calls the clock module written in X86 assembly. This module is going to
-compute the average time required to compute the square root of a float number. The module
-will measure the time required to do the one instruction “square root” many times. Then the
-average time needed to perform the square root operation is computed and outputted. Then the
-program ends.<br/>
+- The driver module calls the clock module written in X86 assembly. This module is going to
+  compute the average time required to compute the square root of a float number. The module
+  will measure the time required to do the one instruction “square root” many times. Then the
+  average time needed to perform the square root operation is computed and outputted. Then the
+  program ends.
+<br/>
 
-In the clock module the user inputs an integer, which we’ll call N. The number N is the number
-of square roots to be computed. In pseudo code this is the processing:
+- In the clock module the user inputs an integer, which we’ll call N. The number N is the number
+  of square roots to be computed. In pseudo code this is the processing:
 <br/>
 
 ```
@@ -52,12 +54,13 @@ for (int k = 1; k<N;k++)
 }   // End loop
 ```
 <br/>
-The amount of time need to compute the square root of k is added to the accumulator. After the
-loop finishes we want to use the value in the accumulator.
+- The amount of time need to compute the square root of k is added to the accumulator. After the
+  loop finishes we want to use the value in the accumulator.
 <br/>
 <br/>
-You pick suitable registers for pseudo variables appearing in the pseudocode above.
-
+- You pick suitable registers for pseudo variables appearing in the pseudocode above.
+<br/>
+<br/>
 
 ## Execution
 
