@@ -14,7 +14,7 @@ Converts an integer to a numerically equal floating point number before passing 
   * [Output](#output)
      * [Split Sample Output by Source](#split-output-by-source)
      * [Full Output](#full-output)
-* [Testing](#testing)
+* [Actual Output](#actual-output)
 <br/><br/><br/>
 ***
 <br/>
