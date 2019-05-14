@@ -14,7 +14,7 @@ Input the resistance of each sub-circuit, and then compute and display the resis
   * [Application Background](#application-background)
   * [The Application](#the-application)
   * [Suggested Approach](#suggested-approach)
-  * [Typical Run](#a-typical-run)
+  * [Typical Run](#typical-run)
   * [Actual Output](#actual-output)
 
 ***
