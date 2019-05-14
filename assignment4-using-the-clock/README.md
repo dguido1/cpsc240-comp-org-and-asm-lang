@@ -61,8 +61,7 @@ for (int k = 1; k<N;k++)
 <br/>
 
 - You pick suitable registers for pseudo variables appearing in the pseudocode above.
-
-<br/>
+***
 <br/>
 <br/>
 
