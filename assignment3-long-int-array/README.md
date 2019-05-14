@@ -12,7 +12,7 @@ Converts an integer to a numerically equal floating point number before passing 
   * [Program Structure](#program-structure)
   * [Source Files](#source-files)
   * [Output](#output)
-     * [Split Output by Source](#split-output-by-source)
+     * [Split Sample Output by Source](#split-output-by-source)
      * [Full Output](#full-output)
 * [Testing](#testing)
 <br/><br/><br/>
