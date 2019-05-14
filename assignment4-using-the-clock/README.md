@@ -54,11 +54,15 @@ for (int k = 1; k<N;k++)
 }   // End loop
 ```
 <br/>
+
 - The amount of time need to compute the square root of k is added to the accumulator. After the
   loop finishes we want to use the value in the accumulator.
+  
 <br/>
 <br/>
+
 - You pick suitable registers for pseudo variables appearing in the pseudocode above.
+
 <br/>
 <br/>
 
