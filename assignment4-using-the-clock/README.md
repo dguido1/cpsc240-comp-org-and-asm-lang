@@ -1,5 +1,5 @@
 ## Assignment 4: Using the Clock
-compute the average time required to compute the square root of a float number.
+Compute the average time required to compute the square root of a float number.
 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;California State University, Fullerton
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;CPSC 240: Computer Organization and Assembly Language
