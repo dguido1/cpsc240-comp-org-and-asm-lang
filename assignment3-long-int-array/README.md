@@ -79,7 +79,7 @@ The bash file runs the entire show
 
 ## Output
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Split Output by Source
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Split Sample Output by Source
 
 #### &nbsp;&nbsp;&nbsp; Main Function (C++)
 ```
@@ -140,7 +140,7 @@ The driver will now return 0 to the operating system.
 
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Output
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Sample Output
 ```
 Welcome to an array of long integers.
 This program is brought to you by Mai Hong Lam.
@@ -174,16 +174,48 @@ The driver will now return 0 to the operating system.
 ***
 <br/>
 
-## Testing
-- Test your own program. It is psychologically difficult to break your own program, but try
-  anyway. 
-  1. &nbsp;&nbsp;Use some negative inputs
-  2. &nbsp;&nbsp;Use no inputs
-  3. &nbsp;&nbsp;Use exactly 1 input
-  4. &nbsp;&nbsp;Use too many so that now all will fit in the array
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Actual Output
+```
+Bash script has started.\n
+The bash script has concluded its execution. It will now close.\n
 
-- Those are the kinds of tests the professor will do with your program if you send it
-- Due date: March 7, 2019
+Welcome to an array of long integers.
+This program is brought to you by David Guido.
+
+The control module has begun.
+Instructions: Enter a sequence of integers.
+To terminate press ‘Enter’ followed by Control+D.
+73
+56
+95
+27
+83
+9
+Here are the data as received:
+73
+56
+95
+27
+83
+9
+The mean of these 6 numbers is 57.166667
+Here are the squares of the data:
+5329
+3136
+9025
+729
+6889
+81
+The control module is now returning to the caller module. Bye.
+
+The driver received this unknown number: 57.166666666666664298.
+The driver will now return 0 to the operating system.
+
+```
+<br/><br/><br/>
+***
+<br/>
+
 <br/><br/><br/>
 ***
 ***
@@ -194,4 +226,3 @@ David Guido :rocket:<br/>
 [Lit Lab Productions](https://www.litlabproductions.com)
 ***
 <br/>
-THIS DOCUMENT IS MEANT TO BE USED FOR EDUCATIONAL PURPOSES ONLY.
