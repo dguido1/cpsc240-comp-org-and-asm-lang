@@ -1,5 +1,5 @@
 ## Assignment 4: Using the Clock
-Converts an integer to a numerically equal floating point number before passing it to another function for arithmetic manipulation
+compute the average time required to compute the square root of a float number.
 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;California State University, Fullerton
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;CPSC 240: Computer Organization and Assembly Language
