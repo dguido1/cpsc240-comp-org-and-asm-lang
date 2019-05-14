@@ -1,3 +1,4 @@
+
 ## Assignment 4: Using the Clock
 Compute the average time required to compute the square root of a float number.
 
@@ -8,12 +9,25 @@ Compute the average time required to compute the square root of a float number.
 <br/>
 
 
-### Introduction
+
+## Table of contents
+  * [Introduction](#introduction)
+  * [Program requirements](#program-requirements)
+  * [Execution](#execution)
+     * [First Sample Execution](#first-sample-execution)
+     * [Second Sample Execution](#second-sample-execution)
+     
+<br/><br/><br/>
+***
+<br/>
+
+## Introduction
 Every microprocessor contains a simple clock. This assignment provides practical hands-on
 experience in using that clock. The whole purpose of this assignment is for you to have real
 experience in the use of the clock.
 
-### Program requirements
+
+## Program requirements
 Create a two module system. The driver module is either C or C++; you pick one. The driver
 module has nothing to do with the solution.<br/>
 
@@ -26,6 +40,7 @@ program ends.<br/>
 In the clock module the user inputs an integer, which we’ll call N. The number N is the number
 of square roots to be computed. In pseudo code this is the processing:
 <br/>
+
 ```
 for (int k = 1; k<N;k++)
 {
@@ -44,11 +59,9 @@ loop finishes we want to use the value in the accumulator.
 You pick suitable registers for pseudo variables appearing in the pseudocode above.
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Split Output by Source
-
+## Execution
 
 ### First sample execution
-
 #### &nbsp;&nbsp;&nbsp; Driver module (C++)
 ```
 Welcome to Assignment 4 created by Linda Gutierrez.
@@ -81,6 +94,7 @@ The clock function will now return the time to the caller.
 The clock main program received this number 0.0983876767
 Have a nice day. Bye
 ```
+
 
 
 
@@ -120,6 +134,7 @@ Have a nice day. Bye
 ```
 
 
+
 ### Third sample execution
 
 #### &nbsp;&nbsp;&nbsp; Driver module (C++)
@@ -147,3 +162,15 @@ The clock function will now return the time to the caller.
 The clock main program received this number 0.2349321490944
 Have a nice day. Bye
 ```
+
+
+<br/><br/><br/>
+***
+***
+<br/>
+Made by:<br/>
+David Guido :rocket:<br/>
+
+[Lit Lab Productions](https://www.litlabproductions.com)
+***
+<br/>
